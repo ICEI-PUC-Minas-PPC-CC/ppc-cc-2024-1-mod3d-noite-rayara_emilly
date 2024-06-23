@@ -1,11 +1,5 @@
-# Instruções de utilização
+# Arquivo editável
 
-## Instalação do Site
+Seguindo o tutorial instalamos a extensão para que fosse possível editar novas cabeças e adicionar rostos diferente, segue o link para o arquivo do Blender:
+<a href="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-mod3d-noite-rayara_emilly/blob/main/src/Face3D.blend">Link</a>
 
-O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores...
-
-## Histórico de versões
-
-### [0.1.0] - DD/MM/AA
-#### Adicionado
-- Adicionado ...
